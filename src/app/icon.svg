@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <polygon points="32,4 60,56 4,56" fill="none" stroke="#b0b4d8" stroke-width="4" stroke-linejoin="round"/>
+  <polygon points="32,16 50,50 14,50" fill="none" stroke="#8488b0" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="44,40 56,58 32,58" fill="#ff2040"/>
+  <text x="32" y="48" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="16" fill="#c0c4e8" letter-spacing="1">GEV</text>
+</svg>
